@@ -1,3 +1,4 @@
-# RNN
-recurrent neural network from scratch
-# Did implementation of RNN and tested it on local data to check its accuracy
+# Welcome to dinasour island
+-created a character level language model to generate new dinasour names
+# Our algorithm will learn the different name patterns, and randomly generate new names
+
